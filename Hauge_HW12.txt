@@ -23,7 +23,9 @@
 
   }
 
-
+should be a, not body
+Colors should be in HEX
+missing font list
 
   .new{
 
@@ -48,7 +50,8 @@ body{
   font:helvetica;
 
 }
-
+wrong colors
+missing font list
 
 
 .new{
@@ -58,3 +61,5 @@ body{
   font-style:italic;
 
 }
+
+id, not class!
